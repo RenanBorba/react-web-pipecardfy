@@ -77,7 +77,7 @@ Aplicação Front-end desenvolvida em ReactJS para clone do app Pipefy web, volt
 </ul>
 <br><br><br>
 
-## :mega: Segue abaixo as principais estruturas e interface principal:
+## :mega: ⬇ Abaixo as principais estruturas e interface principal:
 
 <br><br>
 <br>
