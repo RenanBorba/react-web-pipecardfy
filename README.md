@@ -18,7 +18,7 @@
 
 <br>
 
-Aplicação Front-end desenvolvida em ReactJS para clone do app Pipefy web, voltada para organização de tarefas, permitindo interação de arraste (drag n'drop) entre os cards nas listas de tarefas.
+Aplicação Front-end desenvolvida em ReactJS para clone do app Pipefy web, que é voltado para organização de tarefas, permitindo interação de arraste (drag n'drop) entre os cards nas listas de tarefas.
 
 <br><br>
 
